@@ -24,6 +24,7 @@
 
 -- 
 
+<<<<<<< HEAD
 # Homework For Next Week [~2.5hrs]
 0. Complete **[Dashboard_Exercise.md](Dashboard_Exercise.md)**  See detailed instructions below. 
 1. Fill out YOUR slide in the 'Team Match Making Slides'
@@ -51,14 +52,24 @@ See the detailed instructions in: **[Dashboard_Exercise.md](Dashboard_Exercise.m
 This exercise will prepare you for creating professional dashboards and telling stories with data.
 
 ---
+=======
+
+# Homework For Next Week
+TBD 
+
+>>>>>>> 0ac84d0 (Revert "Merge remote-tracking branch 'origin/hamza-patwa-week-02' into hamza-patwa-week-02")
 
 ### Next Week's Pre-Class Work
+<<<<<<< HEAD
 * [TED Talk: How to have big ideas](https://www.youtube.com/watch?v=mtn31hh6kU4&ab_channel=TEDArchive) ~ 5 min
 * [5 Impactful Data Science Projects For Your Portfolio](https://www.youtube.com/watch?v=QMP858aZcow&ab_channel=KenJee) ~ 8 mins
 * [What is AGILE?](https://www.youtube.com/watch?v=8eVXTyIZ1Hs&ab_channel=Simplilearn) ~ 6 mins
 * [AGILE in Data Science](https://www.youtube.com/watch?v=qI73C05mf3U&ab_channel=TheAgileScrumChannel) ~ 8 mins
 * [Reading about SCRUM from Jira](https://www.atlassian.com/agile/project-management/project-management-intro) ~ 5 mins
 * [What is SCRUM?](https://www.youtube.com/watch?v=SWDhGSZNF9M) ~ 20 mins
+=======
+TBD 
+>>>>>>> 0ac84d0 (Revert "Merge remote-tracking branch 'origin/hamza-patwa-week-02' into hamza-patwa-week-02")
 
 ### OPTIONAL: Complete the Exercise-DONT-EDIT-MAKE-COPY.ipynb
 Remember, make a copy of that file.  Add your initials to that copy. `Exercise-XX.ipynb`. Then edit that file, push your changes, and add the link to the HW submission sheet. (link is on main readme and bookmarked in slack channel)
